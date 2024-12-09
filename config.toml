@@ -14,7 +14,7 @@ excluded-patches = "'GmsCore support'"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-arch = "arm64-v8a"
+arch = "universal"
 build-mode = "both"
 excluded-patches = "'GmsCore support'"
 
