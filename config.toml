@@ -17,3 +17,17 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 excluded-patches = ""
 
+[Photos]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+arch = "both"
+build-mode = "both"
+
+[Pixiv]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pixiv-inc/pixiv/"
+arch = "both"
+build-mode = "both"
+
+[tumblr]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
+arch = "both"
+build-mode = "both"
