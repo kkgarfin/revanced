@@ -1,3 +1,7 @@
+Photos (arm64-v8a): 7.11.0.705590205  
+Photos (arm-v7a): 7.11.0.705590205  
+Pixiv (arm64-v8a): 6.132.0  
+Pixiv (arm-v7a): 6.132.0  
 YTMusic: 7.29.52  
 YouTube: 19.47.53  
 
