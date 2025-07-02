@@ -1,5 +1,5 @@
-Pixiv (arm64-v8a): 6.143.0  
-Pixiv (arm-v7a): 6.143.0  
+Pixiv (arm64-v8a): 6.144.0  
+Pixiv (arm-v7a): 6.144.0  
 YTMusic: 8.05.51  
 YouTube: 20.13.41  
 
@@ -9,4 +9,4 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.29.0.rvp    
+Patches: ReVanced/patches-5.30.0.rvp    
